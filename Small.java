@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sales {
+public class Small {
    // finds the smallest integer
    public static void main(String[] args) {
       Scanner input = new Scanner(System.in);
